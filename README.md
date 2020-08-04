@@ -1,2 +1,3 @@
-# 6pass
-6pass.py
+# warning
+
+warning1.py
